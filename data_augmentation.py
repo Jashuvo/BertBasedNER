@@ -1,6 +1,8 @@
 import spacy
 import random
 
+# Augment the train data
+# train_data = augment_data(train_data)
 
 # Define a function to augment the data with synonyms
 def augment_data(data):
